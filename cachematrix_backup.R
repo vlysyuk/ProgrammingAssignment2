@@ -3,7 +3,6 @@
 ##provided in makeVector and cachemean functions described in
 ##https://class.coursera.org/rprog-010/human_grading/view/courses/972581/assessments/3/submissions
 
-
 makeCacheMatrix <- function(x = matrix()) {
 
 m <- NULL # provides default value for m (the matrix inverse) prior to use of cacheSolve function
